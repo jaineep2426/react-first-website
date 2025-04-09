@@ -28,6 +28,7 @@ const Contact=()=>{
         </div>
         <div className="container contact_div">
             <div className="row">
+            
                 <div className="col-md-6 col-10 mx-auto">
                     <form onSubmit={formSubmit}>
                     <div class="mb-3">
